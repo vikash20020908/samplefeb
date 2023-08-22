@@ -1,0 +1,36 @@
+.todo  {
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    height: 100vh;
+}
+.col-md-5 {
+    margin-top: 150px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 2.2), 0 6px 20px 0 rgba(4, 4, 4, 4.19);
+    border: 2px solid black;
+}
+h1 {
+    font-size: bold !important;
+}
+input {
+    border: 2px solid black !important;
+    display: inline !important;
+    width: 70% !important;
+}
+button{
+    border: 2px solid black !important;
+    margin-left: 20px !important;
+}
+
+i {
+    color: red;
+}
+p {
+    font: bolder;
+    display: inline;
+    margin: 20px;
+}
+label{
+    border: 2px solid black !important;
+    display: flex !important;
+    margin-top: 10px !important;
+    
+}

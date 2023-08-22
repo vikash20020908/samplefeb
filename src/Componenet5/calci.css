@@ -1,0 +1,42 @@
+.Headers {
+    background-color: darkgray;
+    height: 100vh;
+}
+.button{
+    padding: 15px 32px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} 
+h1{
+    padding: 15px 32px;
+    margin-top: 150;
+    text-align: center;
+    font-weight: bold;
+    width: 100%!important;
+}
+button {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+    background-color: aqua;
+    border-radius: 12px;
+    margin: 5px;
+}
+input {
+    display: inline-block;
+    font-size: 40px;
+    padding: 15px 32px;
+    border-radius: 12px;
+}
+/* /* .table {
+    /* box-sizing: content-box;
+    width: 500px;
+    height: 100px;
+    padding: 30px;   
+}  */
